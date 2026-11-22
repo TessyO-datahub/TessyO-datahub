@@ -6,7 +6,7 @@ I'm a Data Analyst and Scientific Research Professional passionate about transfo
 My experience working as a Scientific Technician at the Department of Water and Sanitation and as a Microbiologist in the pharmaceutical industry has strengthened my ability to work with complex datasets, perform detailed investigations, and communicate evidence-based findings. Currently, I'm focused on applying those same analytical skills to data analytics through Python, SQL, Excel, Power BI, and Tableau.
 
 
-🔍 What I'm Working On
+#### 🔍 What I'm Working On
 
 - Data analytics portfolio projects
 - Python-based data analysis
@@ -15,7 +15,7 @@ My experience working as a Scientific Technician at the Department of Water and 
 - Advanced data visualization and storytelling
 
 
-🛠️ Skills & Tools
+#### 🛠️ Skills & Tools
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 - SQL (MySQL, PostgreSQL, and BigQuery)
