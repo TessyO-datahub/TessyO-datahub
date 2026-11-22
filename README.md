@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Data Analyst and Scientific Professional passionate about transforming data into actionable insights. With a background in Microbiology and experience in scientific research, water quality monitoring, and healthcare, I bring a strong analytical and problem-solving mindset to every project. 
+I'm a Data Analyst and Scientific Research Professional passionate about transforming data into actionable insights. With a background in Microbiology and experience in scientific research, water quality monitoring, and healthcare, I bring a strong analytical and problem-solving mindset to every project. 
 My experience working as a Scientific Technician at the Department of Water and Sanitation and as a Microbiologist in the pharmaceutical industry has strengthened my ability to work with complex datasets, perform detailed investigations, and communicate evidence-based findings. Today, I'm focused on applying those same analytical skills to data analytics through Python, SQL, Excel, Power BI, and Tableau.
 
 
