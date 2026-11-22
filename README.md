@@ -84,8 +84,8 @@ Performed sales and profitability analysis on Superstore data using data visuali
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/tessyodiley/[(https://www.linkedin.com/in/tessyodiley/)]
-- Email: totessyodiley@gmail.com[totessyodiley@gmail.com]
+- LinkedIn: [(https://www.linkedin.com/in/tessyodiley/)]
+- Email: [totessyodiley@gmail.com]
 
 
 ## ⚡Fun Fact
