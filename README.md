@@ -3,7 +3,7 @@
 ## About Me
 
 I'm a Data Analyst and Scientific Research Professional passionate about transforming data into actionable insights. With a background in Microbiology and experience in scientific research, water quality monitoring, and healthcare, I bring a strong analytical and problem-solving mindset to every project. 
-My experience working as a Scientific Technician at the Department of Water and Sanitation and as a Microbiologist in the pharmaceutical industry has strengthened my ability to work with complex datasets, perform detailed investigations, and communicate evidence-based findings. Today, I'm focused on applying those same analytical skills to data analytics through Python, SQL, Excel, Power BI, and Tableau.
+My experience working as a Scientific Technician at the Department of Water and Sanitation and as a Microbiologist in the pharmaceutical industry has strengthened my ability to work with complex datasets, perform detailed investigations, and communicate evidence-based findings. Currently, I'm focused on applying those same analytical skills to data analytics through Python, SQL, Excel, Power BI, and Tableau.
 
 
 🔍 What I'm Working On
@@ -18,24 +18,14 @@ My experience working as a Scientific Technician at the Department of Water and 
 🛠️ Skills & Tools
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
-- SQL
-- Excel
-- Power BI
-- Tableau
+- SQL (MySQL, PostgreSQL, and BigQuery)
+- Excel and Google Sheets
+- Power BI and Tableau
 - Data Cleaning
-- Exploratory Data Analysis
+- Exploratory Data Analysis (EDA)
+- Extract, Transform, and Load (ETL)
 - Dashboard Development
 - Statistical Analysis
-
-Currently, I am expanding my expertise in:
-
-- Data Analysis
-- Data Visualization
-- Business Intelligence
-- SQL
-- Python
-- Power BI
-- Tableau
 
 My goal is to leverage data to help organizations make informed, evidence-based decisions.
 
@@ -89,7 +79,6 @@ Performed sales and profitability analysis on Superstore data using data visuali
 ## 🌱 Currently Learning
 
 - Advanced SQL and Python
-- Data Storytelling
 - Database management
 - Data Governance and Ethics
 
