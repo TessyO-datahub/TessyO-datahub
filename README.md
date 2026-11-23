@@ -6,7 +6,7 @@ I'm a Data Analyst and Scientific Research Professional passionate about transfo
 My experience working as a Scientific Technician at the Department of Water and Sanitation and as a Microbiologist in the pharmaceutical industry has strengthened my ability to work with complex datasets, perform detailed investigations, and communicate evidence-based findings. Currently, I'm focused on applying those same analytical skills to data analytics through Python, SQL, Excel, Power BI, and Tableau.
 
 
-#### 🔍 What I'm Working On
+#### What I'm Working On
 
 - Data analytics portfolio projects
 - Python-based data analysis
@@ -15,7 +15,7 @@ My experience working as a Scientific Technician at the Department of Water and 
 - Advanced data visualization and storytelling
 
 
-#### 🛠️ Skills & Tools
+#### Skills & Tools
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 - SQL (MySQL, PostgreSQL, and BigQuery)
@@ -55,39 +55,39 @@ My goal is to leverage data to help organizations make informed, evidence-based 
 - Quality Assurance
 - Technical Reporting
 
-## 📂 Featured Projects
+## Featured Projects
 
-### ⚡ Electricity Consumption Analysis
+### Electricity Consumption Analysis
 Analyzed electricity consumption patterns across three zones using Python. The project explored consumption trends, peak-demand periods, seasonal variations, and relationships between electricity usage and environmental factors such as temperature, humidity, and wind speed.
 
 🔗 [(https://github.com/TessyO-datahub/Morocco-Electricity-Consumption-and-Environmental-Factors-Analysis-Python)]
 
 ---
 
-### 🏥 Hospital Operations Analysis
+### Hospital Operations Analysis
 Conducted exploratory and operational analysis on hospital data to evaluate patient flow, service performance, and key operational metrics using SQL and Power BI. The project focused on identifying trends and insights that support data-driven healthcare decision-making.
 
 🔗 [(https://github.com/TessyO-datahub/Hospital_Operations_Cost_And_Patient_Flow_Intelligence_Analysis-Excel-SQL-Power_BI)]
 
 ---
 
-### 🛒 Superstore Sales Analysis
+### Superstore Sales Analysis
 Performed sales and profitability analysis on Superstore data using data visualization and business intelligence techniques. The project examined regional performance, product categories, customer segments, and sales trends to uncover business insights.
 
 🔗 [(https://github.com/TessyO-datahub/Superstore_Business_Intelligence_Sales_Analysis-Power-BI)]
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced SQL and Python
 - Database management
 - Data Governance and Ethics
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: [(https://www.linkedin.com/in/tessyodiley/)]
 - Email: [totessyodiley@gmail.com]
 
 
-## ⚡Fun Fact
+## Fun Fact
 I transitioned from science into data analytics because I enjoy uncovering patterns, solving problems, and turning data into actionable insights.
 
